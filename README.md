@@ -14,4 +14,4 @@ This research prototype identifies **AI Sycophancy** and **Power Differential Me
 ## 🛠 Tech & Conceptual Design
 - **Language:** Python
 - **Framework:** Socio-Technical Impact Assessment (STIA)
-- **Note:** This project demonstrates the application of **Prompt Engineering** to translate complex social science theories into functional technical diagnostics. It serves as a bridge between AI Ethics research and data-driven monitoring.
+- **Note:** This repository represents a collaborative structural blueprint. The mathematical heuristics and sociotechnical logic were engineered by me, while the syntax implementation was assisted by generative AI. It demonstrates how a domain expert can leverage Prompt Engineering and Advanced AI Collaboration to translate complex social science frameworks into functional, quantitative code without being a traditional software engineer.
